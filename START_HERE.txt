@@ -1,0 +1,5 @@
+1. Install libraries: py -m pip install -r requirements.txt
+2. Open student_dashboard_idle.py in Python IDLE.
+3. Press F5 to run.
+4. Use the sample data first; then try Open CSV and Export CSV.
+5. The final report should use the results actually produced by the program.
