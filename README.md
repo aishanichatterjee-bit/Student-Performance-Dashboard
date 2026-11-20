@@ -43,4 +43,4 @@ S003,Electronics,15,85
 The built-in sample data and supplied CSV are synthetic demonstration data. They are not actual student records. Correlation does not establish causation.
 
 ## Project report
-Prepare the final report after running the application and recording the actual results produced on your computer. Do not treat illustrative sample statistics as real-world findings.
+Refer to the submitted project report for the methodology, implementation details, results, testing, and conclusion. The dataset contains synthetic demonstration data and does not represent actual student records.
